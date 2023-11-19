@@ -4,11 +4,18 @@
 
 ### Controls !!!
 
-W: Look up \n
-S: Look down \n
-A: Look left \n
-D: Look Right \n
-<- : Rotate left \n
--> : Rotate right \n
-Space: Speed Boost \n
+W: Look up  
+
+S: Look down  
+
+A: Look left  
+
+D: Look Right  
+
+<- : Rotate left  
+
+-> : Rotate right  
+
+Space: Speed Boost  
+
 Left Shift: Slow Motion (Helps to aim better!)
